@@ -4,7 +4,7 @@
   </a> -->
  <p align="center">   
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=TheDeepDelve&theme=tokyonight&row=1&column=4&title=Stars,Commits,Repositories,PullRequestMerged" alt="Harsh Deep's GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=TheDeepDelve&theme=tokyonight&row=1&column=4&title=Commits,Repositories,PullRequestMerged" alt="Harsh Deep's GitHub Trophies" />
   </a>
 <a href="https://github.com/TheDeepDelve">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDeepDelve&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
