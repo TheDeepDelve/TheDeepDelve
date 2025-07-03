@@ -1,18 +1,11 @@
 <div align="center">
-  <table>
-    <tr>
-      <td valign="middle">
-        <a href="https://github.com/ryo-ma/github-profile-trophy">
-          <img src="https://github-profile-trophy.vercel.app/?username=TheDeepDelve&theme=tokyonight&row=1&column=4&title=Commits,Repositories,PullRequestMerged" alt="TheDeepDelve's GitHub Trophies" />
-        </a>
-      </td>
-    </tr>
-    <tr>      <td valign="middle">
-        <a href="https://github.com/TheDeepDelve">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDeepDelve&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
-        </a>
-      </td></tr>
-  </table>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=TheDeepDelve&theme=tokyonight&row=1&column=2&title=Commits,Repositories" alt="TheDeepDelve's GitHub Trophies" />
+  </a>
+  <br>
+  <a href="https://github.com/TheDeepDelve">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDeepDelve&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+  </a>
 </div>
 
 <h1 align="center">Hi there, I'm Harsh 👋</h1>
