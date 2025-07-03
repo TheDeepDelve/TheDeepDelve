@@ -6,12 +6,12 @@
           <img src="https://github-profile-trophy.vercel.app/?username=TheDeepDelve&theme=tokyonight&row=1&column=4&title=Commits,Repositories,PullRequestMerged" alt="TheDeepDelve's GitHub Trophies" />
         </a>
       </td>
-      <td valign="middle">
+    </tr>
+    <tr>      <td valign="middle">
         <a href="https://github.com/TheDeepDelve">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDeepDelve&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
         </a>
-      </td>
-    </tr>
+      </td></tr>
   </table>
 </div>
 
