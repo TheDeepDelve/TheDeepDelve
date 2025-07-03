@@ -1,10 +1,16 @@
-<div align="center">
+<div >
 <!--   <a href="https://github.com/TheDeepDelve">
     <img src="https://github-readme-stats.vercel.app/api?username=TheDeepDelve&show_icons=true&theme=dracula&count_private=true&hide_border=true&line_height=24" alt="TheDeepDelve's GitHub Stats" />
   </a> -->
-  <a href="https://github.com/TheDeepDelve">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDeepDelve&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+ <p align="center">   
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=TheDeepDelve&theme=tokyonight&row=1&column=4&title=Stars,Commits,Repositories,PullRequestMerged" alt="Harsh Deep's GitHub Trophies" />
   </a>
+<a href="https://github.com/TheDeepDelve">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDeepDelve&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+</a>
+</p>
+
 <!-- <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=TheDeepDelve&theme=tokyonight" alt="GitHub Streak" />
