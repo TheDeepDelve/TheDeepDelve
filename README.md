@@ -1,4 +1,4 @@
-<div >
+<div align="center">
 <!--   <a href="https://github.com/TheDeepDelve">
     <img src="https://github-readme-stats.vercel.app/api?username=TheDeepDelve&show_icons=true&theme=dracula&count_private=true&hide_border=true&line_height=24" alt="TheDeepDelve's GitHub Stats" />
   </a> -->
