@@ -9,7 +9,7 @@
 </div>
 
 <h1 align="center">Hi there, I'm Harsh 👋</h1>
-<h3 align="center">An aspiring Software Engineer who loves to <a href="https://github.com/TheDeepDelve">Deep-Delve</a> into technology.</h3>
+<h3 align="center">A 3rd year Computer Science undergrad, currently interning at Samsung R&D and An aspiring Software Engineer who loves to <a href="https://github.com/TheDeepDelve">Deep-Delve</a> into technology.</h3>
 
 I'm a passionate problem-solver with a strong foundation in Computer Science and a specialized interest in building intelligent, scalable systems. My journey in tech is driven by a simple philosophy: **understand the fundamentals, then build with purpose.** 
 <!--From crafting complex algorithms to architecting full-stack AI applications, I thrive on transforming challenging problems into elegant, efficient solutions.-->
