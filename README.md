@@ -1,7 +1,7 @@
 <div align="center">
-  <a href="https://github.com/TheDeepDelve">
+<!--   <a href="https://github.com/TheDeepDelve">
     <img src="https://github-readme-stats.vercel.app/api?username=TheDeepDelve&show_icons=true&theme=dracula&count_private=true&hide_border=true&line_height=24" alt="TheDeepDelve's GitHub Stats" />
-  </a>
+  </a> -->
   <a href="https://github.com/TheDeepDelve">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDeepDelve&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
   </a>
@@ -77,8 +77,8 @@ Here are a few projects I'm particularly proud of. They showcase my ability to h
 | Project Title                                                  | Description                                                                                                                              | Technologies Used                               |
 | -------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
 | **[BillBuddy](https://github.com/TheDeepDelve/BillBuddy)** |  An Android application designed to simplify expense tracking, group bill splitting, and financial discussions. Built with Kotlin and Firebase, it offers a modern, intuitive interface for managing your finances collaboratively.| `Kotlin` `Firebase`     |
-| 🗣**[Explore Bharat](https://github.com/TheDeepDelve/ExploreBharat)**                         | Full-stack website showcasing unique tour packages to lesser-known destinations across India. Integrated user authentication with Log In, Sign Up, and Booking pages, using MySQL for secure data storage and credential verification. Enhanced user experience with optimizations for faster page load times. | `HTML` `CSS` `JavaScript` `RESTful APIs` `Express.js` `MySQL`  |
-| 📰**[IntelliMotion](https://github.com/TheDeepDelve/IntelliMotion)**                       | An OpenCV and MediaPipe-based real-time computer vision system for hand gesture recognition and pose tracking. Enabled volume control and workout tracking with a response time of under 100ms using OpenCV and MediaPipe. Achieved 30 FPS real-time processing for smooth and lag-free gesture recognition. | `Python` `OpenCV` `MediaPipe` `Flask`      |
+| **[Explore Bharat](https://github.com/TheDeepDelve/ExploreBharat)**                         | Full-stack website showcasing unique tour packages to lesser-known destinations across India. Integrated user authentication with Log In, Sign Up, and Booking pages, using MySQL for secure data storage and credential verification. Enhanced user experience with optimizations for faster page load times. | `HTML` `CSS` `JavaScript` `RESTful APIs` `Express.js` `MySQL`  |
+| **[IntelliMotion](https://github.com/TheDeepDelve/IntelliMotion)**                       | An OpenCV and MediaPipe-based real-time computer vision system for hand gesture recognition and pose tracking. Enabled volume control and workout tracking with a response time of under 100ms using OpenCV and MediaPipe. Achieved 30 FPS real-time processing for smooth and lag-free gesture recognition. | `Python` `OpenCV` `MediaPipe` `Flask`      |
 | **[API-Server](https://github.com/TheDeepDelve/API-Server)**                               | Node.js API for a mock electronics store with integrated DevOps monitoring. Implements Prometheus for e-commerce specific metrics (product views, cart additions, orders, inventory), Grafana for dashboards and Alertmanager for critical alerts. | `JavaScript` `Node.js` `Prometheus` `Grafana` `Postman`        |
 
 
