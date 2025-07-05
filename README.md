@@ -6,6 +6,9 @@
   <a href="https://github.com/TheDeepDelve">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDeepDelve&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
   </a>
+    <a href="https://github.com/TheDeepDelve">
+    <img src="https://github-readme-stats.vercel.app/api?username=TheDeepDelve&show_icons=true&theme=dracula&count_private=true&hide_border=true&line_height=24" alt="TheDeepDelve's GitHub Stats" />
+  </a>
 </div>
 
 <h1 align="center">Hi there, I'm Harsh 👋</h1>
