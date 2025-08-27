@@ -1,8 +1,8 @@
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+<!--   <a href="https://github.com/ryo-ma/github-profile-trophy">
      <img src="https://github-profile-trophy.vercel.app/?username=TheDeepDelve&theme=tokyonight&row=1&column=2&title=Commits,Repositories" alt="TheDeepDelve's GitHub Trophies" />
   </a>
-  <br>
+  <br> -->
   <a href="https://github.com/TheDeepDelve">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDeepDelve&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
   </a>
