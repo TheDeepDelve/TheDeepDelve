@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-readme-stats.vercel.app/api?username=TheDeepDelve&show_icons=true&theme=tokyonight" alt="Harsh Deep's GitHub Stats" />
+     <img src="https://github-profile-trophy.vercel.app/?username=TheDeepDelve&theme=tokyonight&row=1&column=2&title=Commits,Repositories" alt="TheDeepDelve's GitHub Trophies" />
   </a>
   <br>
   <a href="https://github.com/TheDeepDelve">
